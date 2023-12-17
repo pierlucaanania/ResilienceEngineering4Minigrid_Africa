@@ -1,4 +1,4 @@
-# Master's Thesis Outline
+# Master's Thesis Outline - Proposal
 
 
 ## 1. Introduction
