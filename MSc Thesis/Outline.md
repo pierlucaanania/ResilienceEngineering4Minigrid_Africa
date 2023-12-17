@@ -1,5 +1,6 @@
 # Master's Thesis Outline
 
+
 ## 1. Introduction
    - 1.1 Problem Contextualization  
    - 1.2 Scope and Objectives of the Thesis  
