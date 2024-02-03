@@ -1,5 +1,4 @@
-# Project Title: Resilient Minigrids for Rural Energy Supply in Kenya
-
+# Project Title:  "Integration of Resilience Engineering Strategies in Minigrids to Address Operational Anomalies: A Case Study in Kenya"
 ## Overview:
 This project focuses on developing and optimizing resilient minigrids to address energy supply challenges in rural communities of Kenya. The integration of advanced anomaly detection techniques and resilience engineering strategies aims to enhance operational efficiency, safety, and sustainability of these energy systems.
 
