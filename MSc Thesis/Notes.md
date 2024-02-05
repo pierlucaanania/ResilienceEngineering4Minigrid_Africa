@@ -1,7 +1,6 @@
 ## Metrics for Assessing Resilience of Off-Grid PV Systems
 
 
-
 1. **Energy Autonomy:** This metric assesses how long an off-grid PV system can operate without an external energy source, such as during adverse weather conditions or darkness.
 
 2. **Reliability:** The system's ability to function without failures or prolonged interruptions is a crucial indicator of resilience. The percentage of time the system is operational can be used as a metric.
