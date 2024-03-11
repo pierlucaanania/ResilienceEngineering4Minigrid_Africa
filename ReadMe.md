@@ -1,4 +1,4 @@
-# Project Title:  "Integration of Resilience Engineering Strategies in Minigrids to Address Operational Anomalies: A Case Study in Kenya"
+# Project Title:  "Resilience Engineering Framework Integration for Complex Adaptive Systems Operation in Off-Grid Renewable Energy Systems"
 ## Overview:
 This project focuses on developing and optimizing resilient minigrids to address energy supply challenges in rural communities of Kenya. The integration of advanced anomaly detection techniques and resilience engineering strategies aims to enhance operational efficiency, safety, and sustainability of these energy systems.
 
@@ -15,13 +15,6 @@ This project focuses on developing and optimizing resilient minigrids to address
 - Sustainable energy solutions for rural communities.
 
 ## Technologies Used:
-- TobeUpdated
-
-## How to Use:
-- TobeUpdated
-
-## Contributors:
-- Pier Luca Anania
 - TobeUpdated
 
 ## Acknowledgments:
